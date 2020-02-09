@@ -7,7 +7,13 @@ This is a tiny tool to convert the old format of your share link from Netease Cl
 ## Usage
 
 ```
-nelc [sourcelink] [destlink]
+./nelc.py [sourcelink]
+```
+
+The result is:
+
+```
+[destlink]
 ```
 
 * sourcelink - a link like `http://music.163.com/song/XXXXXXXXX/`
